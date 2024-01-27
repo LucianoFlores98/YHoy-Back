@@ -1,0 +1,1 @@
+Aca van las funciones que vamos a utilizar y se ejecutaran cuando usemos una URL
